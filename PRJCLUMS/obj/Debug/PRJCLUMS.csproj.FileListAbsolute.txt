@@ -1,0 +1,110 @@
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.csprojResolveAssemblyReference.cache
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmItemReports.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmBillInquiry.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddUser.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddCategory.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddInventory.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmBilling.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmConfirm.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmDailyReports.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmLogin.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmMDI.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmReports.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewUser.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewCategory.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewItems.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.csproj.GenerateResource.Cache
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\bin\Debug\PRJCLUMS.exe.config
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\bin\Debug\PRJCLUMS.exe
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\bin\Debug\PRJCLUMS.pdb
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\bin\Debug\MySql.Data.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\bin\Debug\PdfSharp.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.Properties.Resources.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.exe
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMS\PRJCLUMS\obj\Debug\PRJCLUMS.pdb
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\bin\Debug\PRJCLUMS.exe.config
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.exe
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.pdb
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\bin\Debug\PRJCLUMS.exe
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\bin\Debug\PRJCLUMS.pdb
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\bin\Debug\MySql.Data.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\bin\Debug\PdfSharp.dll
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.csprojResolveAssemblyReference.cache
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmItemReports.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmBillInquiry.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddUser.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddCategory.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddInventory.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmBilling.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmConfirm.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmDailyReports.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmLogin.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmMDI.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmReports.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewUser.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewCategory.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewItems.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.Properties.Resources.resources
+C:\Users\Starshina Gospodin\Desktop\Edward\SMS_Final\branches\SMS_Projec\PROJCLUMSver1\PRJCLUMS\obj\Debug\PRJCLUMS.csproj.GenerateResource.Cache
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\bin\Debug\PRJCLUMS.exe.config
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.exe
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.pdb
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\bin\Debug\PRJCLUMS.exe
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\bin\Debug\PRJCLUMS.pdb
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\bin\Debug\MySql.Data.dll
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\bin\Debug\PdfSharp.dll
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.csprojResolveAssemblyReference.cache
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmItemReports.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmBillInquiry.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddUser.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddCategory.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddInventory.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmBilling.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmConfirm.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmDailyReports.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmLogin.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmMDI.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmReports.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewUser.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewCategory.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewItems.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.Properties.Resources.resources
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.csproj.GenerateResource.Cache
+C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddSubCategory.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\bin\Debug\PRJCLUMS.exe.config
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.exe
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.pdb
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\bin\Debug\PRJCLUMS.exe
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\bin\Debug\PRJCLUMS.pdb
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\bin\Debug\MySql.Data.dll
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\bin\Debug\PdfSharp.dll
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.csprojResolveAssemblyReference.cache
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddSubCategory.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmItemReports.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmBillInquiry.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddUser.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddCategory.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmAddInventory.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmBilling.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmConfirm.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmDailyReports.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmLogin.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmMDI.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmReports.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewUser.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewCategory.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.frmViewItems.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.Properties.Resources.resources
+C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\obj\Debug\PRJCLUMS.csproj.GenerateResource.Cache

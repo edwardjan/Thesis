@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CADD20D8-0DAC-4FBA-BCCD-2EEDE812C763}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PRJCLUMS</RootNamespace>
+    <AssemblyName>PRJCLUMS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>PRJCLUMS.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MigraDoc.DocumentObjectModel, Version=1.31.3066.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\MigraDoc.DocumentObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="MigraDoc.Rendering">
+      <HintPath>..\References\MigraDoc.Rendering.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Reference\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp">
+      <HintPath>..\References\PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp.Charting">
+      <HintPath>..\References\PdfSharp.Charting.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CBilling.cs" />
+    <Compile Include="CreateItemReport.cs" />
+    <Compile Include="CSubCategory.cs" />
+    <Compile Include="frmAddSubCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddSubCategory.Designer.cs">
+      <DependentUpon>frmAddSubCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmItemReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmItemReports.Designer.cs">
+      <DependentUpon>frmItemReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateDailyReport.cs" />
+    <Compile Include="CreateInvoice.cs" />
+    <Compile Include="CreateYearlyReport.cs" />
+    <Compile Include="frmBillInquiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBillInquiry.Designer.cs">
+      <DependentUpon>frmBillInquiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CUser.cs" />
+    <Compile Include="CCategory.cs" />
+    <Compile Include="CDBProvider.cs" />
+    <Compile Include="CInventory.cs" />
+    <Compile Include="frmAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddUser.Designer.cs">
+      <DependentUpon>frmAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddCategory.Designer.cs">
+      <DependentUpon>frmAddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddInventory.Designer.cs">
+      <DependentUpon>frmAddInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilling.Designer.cs">
+      <DependentUpon>frmBilling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfirm.Designer.cs">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDailyReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDailyReports.Designer.cs">
+      <DependentUpon>frmDailyReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMDI.Designer.cs">
+      <DependentUpon>frmMDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReports.Designer.cs">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewUser.Designer.cs">
+      <DependentUpon>frmViewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewCategory.Designer.cs">
+      <DependentUpon>frmViewCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewItems.Designer.cs">
+      <DependentUpon>frmViewItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateMonthlyReport.cs" />
+    <Compile Include="Logger\Logger.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAddSubCategory.resx">
+      <DependentUpon>frmAddSubCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmItemReports.resx">
+      <DependentUpon>frmItemReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBillInquiry.resx">
+      <DependentUpon>frmBillInquiry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddUser.resx">
+      <DependentUpon>frmAddUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddCategory.resx">
+      <DependentUpon>frmAddCategory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddInventory.resx">
+      <DependentUpon>frmAddInventory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilling.resx">
+      <DependentUpon>frmBilling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirm.resx">
+      <DependentUpon>frmConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDailyReports.resx">
+      <DependentUpon>frmDailyReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMDI.resx">
+      <DependentUpon>frmMDI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReports.resx">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewUser.resx">
+      <DependentUpon>frmViewUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewCategory.resx">
+      <DependentUpon>frmViewCategory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewItems.resx">
+      <DependentUpon>frmViewItems.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\redPC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\redstar.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\logoff.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\redsmile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\redC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\commi.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\redcross.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\reded.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\reddel.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\BAGP11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\CaA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quares.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quares1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quares2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quares3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quares4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quares5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shadow1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shadow2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe-in-hand.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shadow3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe-in-hand1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shadow4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe-in-hand2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shadow5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here43.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quares6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quares7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe-in-hand3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage81.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage51.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here33.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here34.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\here44.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage82.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage43.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webimage11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimalistic_desktop_1920x1200_hd-wallpaper-618062.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pics1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simple and elegant abstract Wallpaper HD 2560x1440.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Reference\MigraDoc.DocumentObjectModel.dll" />
+    <Content Include="Reference\MigraDoc.Rendering.dll" />
+    <Content Include="Reference\PdfSharp.Charting.dll" />
+    <Content Include="Reference\PdfSharp.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

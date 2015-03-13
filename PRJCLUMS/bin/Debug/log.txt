@@ -1,0 +1,497 @@
+3/12/2015 1:53:40 PM -> Exiting application from account [] successfully.
+3/12/2015 1:53:54 PM -> Logged in as [admin].
+3/12/2015 1:53:55 PM -> Initialization successful.
+3/12/2015 1:53:57 PM -> Opening add user form.
+3/12/2015 1:53:59 PM -> Closing add user form.
+3/12/2015 1:54:01 PM -> Opening reports form.
+3/12/2015 1:54:02 PM -> Closing reports form.
+3/12/2015 1:54:05 PM -> Logging out from account [admin (Administrator)].
+3/12/2015 1:54:06 PM -> Exiting application from account [] successfully.
+3/12/2015 1:55:21 PM -> Exiting application from account [] successfully.
+3/12/2015 2:02:17 PM -> Exiting application from account [] successfully.
+3/12/2015 2:08:30 PM -> Logged in as [admin].
+3/12/2015 2:08:30 PM -> Initialization successful.
+3/12/2015 2:08:32 PM -> Opening manage users form.
+3/12/2015 2:08:43 PM -> Opening item reports form.
+3/12/2015 2:08:46 PM -> Opening reports form.
+3/12/2015 2:08:56 PM -> Logging out from account [admin (Administrator)].
+3/12/2015 2:08:57 PM -> Exiting application from account [] successfully.
+3/12/2015 2:09:06 PM -> Logged in as [admin].
+3/12/2015 2:09:06 PM -> Initialization successful.
+3/12/2015 2:09:08 PM -> Opening add category form.
+3/12/2015 2:09:43 PM -> Saving new category data.
+3/12/2015 2:09:47 PM -> Opening add item form.
+3/12/2015 2:09:55 PM -> Opening manage categories form.
+3/12/2015 2:09:59 PM -> Opening add item form.
+3/12/2015 2:10:15 PM -> Saving new item data.
+3/12/2015 2:10:19 PM -> Saving new item data.
+3/12/2015 2:10:22 PM -> Opening manage items form.
+3/12/2015 2:10:35 PM -> Editing item data.
+3/12/2015 2:10:41 PM -> Saving new item data.
+3/12/2015 2:10:44 PM -> Editing item data.
+3/12/2015 2:10:48 PM -> Saving new item data.
+3/12/2015 2:10:58 PM -> Opening manage items form.
+3/12/2015 2:11:03 PM -> Opening manage categories form.
+3/12/2015 2:11:05 PM -> Deactivating category.
+3/12/2015 2:11:09 PM -> Deactivating category.
+3/12/2015 2:11:17 PM -> Activating category.
+3/12/2015 2:11:20 PM -> Activating category.
+3/12/2015 2:11:23 PM -> Opening manage items form.
+3/12/2015 2:11:30 PM -> Editing item data.
+3/12/2015 2:11:51 PM -> Saving new item data.
+3/12/2015 2:11:54 PM -> Editing item data.
+3/12/2015 2:12:03 PM -> Opening manage items form.
+3/12/2015 2:12:05 PM -> Editing item data.
+3/12/2015 2:12:09 PM -> Saving new item data.
+3/12/2015 2:12:12 PM -> Editing item data.
+3/12/2015 2:12:15 PM -> Saving new item data.
+3/12/2015 2:12:21 PM -> Editing item data.
+3/12/2015 2:12:24 PM -> Saving new item data.
+3/12/2015 2:12:27 PM -> Editing item data.
+3/12/2015 2:12:35 PM -> Opening reports form.
+3/12/2015 2:12:38 PM -> Opening billing form.
+3/12/2015 2:12:41 PM -> Adding item to be sold.
+3/12/2015 2:13:05 PM -> Confirming billing transaction.
+3/12/2015 2:13:15 PM -> Opening manage items form.
+3/12/2015 2:13:19 PM -> Opening reports form.
+3/12/2015 2:13:26 PM -> Opening item reports form.
+3/12/2015 2:13:37 PM -> Opening inquiry form.
+3/12/2015 2:13:46 PM -> Logging out from account [admin (Administrator)].
+3/12/2015 2:13:47 PM -> Exiting application from account [] successfully.
+3/12/2015 2:43:27 PM -> Logged in as [admin].
+3/12/2015 2:43:27 PM -> Initialization successful.
+3/12/2015 2:44:27 PM -> Logged in as [admin].
+3/12/2015 2:44:28 PM -> Initialization successful.
+3/12/2015 2:44:50 PM -> Opening add item form.
+3/12/2015 2:44:56 PM -> Logging out from account [admin (Administrator)].
+3/12/2015 2:44:59 PM -> Exiting application from account [] successfully.
+3/12/2015 3:50:06 PM -> Logged in as [admin].
+3/12/2015 3:50:06 PM -> Initialization successful.
+3/12/2015 3:50:08 PM -> Opening add sub category form.
+3/12/2015 3:50:11 PM -> Opening manage categories form.
+3/12/2015 3:50:16 PM -> Opening add sub category form.
+3/12/2015 3:50:33 PM -> Saving new category data.
+3/12/2015 3:50:38 PM -> Opening manage categories form.
+3/12/2015 4:13:36 PM -> Logged in as [admin].
+3/12/2015 4:13:36 PM -> Initialization successful.
+3/12/2015 4:13:43 PM -> Opening manage users form.
+3/12/2015 4:43:03 PM -> Logged in as [admin].
+3/12/2015 4:43:03 PM -> Initialization successful.
+3/12/2015 4:43:09 PM -> Opening add category form.
+3/12/2015 4:43:15 PM -> Opening manage categories form.
+3/12/2015 4:43:18 PM -> Opening add main category form.
+3/12/2015 4:43:26 PM -> Saving new category data.
+3/12/2015 4:43:31 PM -> Opening manage categories form.
+3/12/2015 4:43:37 PM -> Opening add sub category form.
+3/12/2015 4:43:44 PM -> Saving new category data.
+3/12/2015 4:43:54 PM -> Saving new category data.
+3/12/2015 4:45:04 PM -> Logged in as [admin].
+3/12/2015 4:45:05 PM -> Initialization successful.
+3/12/2015 4:45:07 PM -> Opening manage categories form.
+3/12/2015 4:45:09 PM -> Opening add sub category form.
+3/12/2015 4:45:15 PM -> Saving new category data.
+3/12/2015 4:50:05 PM -> Logged in as [admin].
+3/12/2015 4:50:05 PM -> Initialization successful.
+3/12/2015 4:50:07 PM -> Opening add sub category form.
+3/12/2015 4:50:15 PM -> Saving new category data.
+3/12/2015 4:50:19 PM -> Saving new category data.
+3/12/2015 4:50:21 PM -> Saving new category data.
+3/12/2015 4:50:34 PM -> Saving new category data.
+3/12/2015 4:50:37 PM -> Saving new category data.
+3/12/2015 4:50:45 PM -> Opening manage categories form.
+3/12/2015 4:50:48 PM -> Editing category data.
+3/12/2015 4:50:50 PM -> Saving new category data.
+3/12/2015 4:50:53 PM -> Opening manage categories form.
+3/12/2015 4:50:58 PM -> Editing category data.
+3/12/2015 4:51:00 PM -> Saving new category data.
+3/12/2015 4:51:03 PM -> Opening manage categories form.
+3/12/2015 4:51:44 PM -> Logged in as [admin].
+3/12/2015 4:51:44 PM -> Initialization successful.
+3/12/2015 4:51:47 PM -> Opening manage categories form.
+3/12/2015 4:51:49 PM -> Editing category data.
+3/12/2015 4:51:51 PM -> Saving new category data.
+3/12/2015 4:51:53 PM -> Saving new category data.
+3/12/2015 4:52:52 PM -> Logged in as [admin].
+3/12/2015 4:52:52 PM -> Initialization successful.
+3/12/2015 4:52:54 PM -> Opening manage categories form.
+3/12/2015 4:52:56 PM -> Editing category data.
+3/12/2015 4:52:57 PM -> Saving new category data.
+3/12/2015 4:53:43 PM -> Logged in as [admin].
+3/12/2015 4:53:43 PM -> Initialization successful.
+3/12/2015 4:53:48 PM -> Opening manage items form.
+3/12/2015 4:53:51 PM -> Opening manage categories form.
+3/12/2015 4:55:14 PM -> Logged in as [admin].
+3/12/2015 4:55:15 PM -> Initialization successful.
+3/12/2015 4:55:16 PM -> Opening add item form.
+3/12/2015 4:55:38 PM -> Logged in as [admin].
+3/12/2015 4:55:38 PM -> Initialization successful.
+3/12/2015 4:55:40 PM -> Opening add item form.
+3/12/2015 4:56:49 PM -> Logged in as [admin].
+3/12/2015 4:56:49 PM -> Initialization successful.
+3/12/2015 4:56:51 PM -> Opening add item form.
+3/12/2015 4:58:08 PM -> Logged in as [admin].
+3/12/2015 4:58:08 PM -> Initialization successful.
+3/12/2015 4:58:11 PM -> Opening add item form.
+3/12/2015 4:59:28 PM -> Logged in as [admin].
+3/12/2015 4:59:28 PM -> Initialization successful.
+3/12/2015 4:59:32 PM -> Opening add item form.
+3/12/2015 4:59:55 PM -> Saving new item data.
+3/12/2015 5:00:00 PM -> Opening manage items form.
+3/12/2015 5:07:56 PM -> Logged in as [admin].
+3/12/2015 5:07:56 PM -> Initialization successful.
+3/12/2015 5:07:59 PM -> Opening manage items form.
+3/12/2015 5:08:06 PM -> Editing item data.
+3/12/2015 5:10:27 PM -> Logged in as [admin].
+3/12/2015 5:10:27 PM -> Initialization successful.
+3/12/2015 5:10:29 PM -> Opening manage items form.
+3/12/2015 5:10:31 PM -> Editing item data.
+3/12/2015 5:10:37 PM -> Saving new item data.
+3/12/2015 5:10:37 PM -> Unknown column 'Image' in 'field list'   at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at PRJCLUMS.CDBProvider.AddInventory(Int32 No, String Name, String MCategory, String SCategory, String Desc, Double Price, Int32 Stock, Int32 NoOfItemSold, String Date, String Image, String Status, Boolean IsEdit) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\CDBProvider.cs:line 337
+3/12/2015 5:11:11 PM -> Logged in as [admin].
+3/12/2015 5:11:11 PM -> Initialization successful.
+3/12/2015 5:11:13 PM -> Opening manage items form.
+3/12/2015 5:11:15 PM -> Editing item data.
+3/12/2015 5:11:17 PM -> Saving new item data.
+3/12/2015 5:11:17 PM -> Unknown column 'Image' in 'field list'   at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at PRJCLUMS.CDBProvider.AddInventory(Int32 No, String Name, String MCategory, String SCategory, String Desc, Double Price, Int32 Stock, Int32 NoOfItemSold, String Date, String Image, String Status, Boolean IsEdit) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\CDBProvider.cs:line 337
+3/12/2015 5:12:12 PM -> Logged in as [admin].
+3/12/2015 5:12:12 PM -> Initialization successful.
+3/12/2015 5:12:14 PM -> Opening manage items form.
+3/12/2015 5:12:16 PM -> Editing item data.
+3/12/2015 5:12:17 PM -> Saving new item data.
+3/12/2015 5:12:17 PM -> Unknown column 'Image' in 'field list'   at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at PRJCLUMS.CDBProvider.AddInventory(Int32 No, String Name, String MCategory, String SCategory, String Desc, Double Price, Int32 Stock, Int32 NoOfItemSold, String Date, String Image, String Status, Boolean IsEdit) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\CDBProvider.cs:line 337
+3/12/2015 5:12:22 PM -> Opening manage items form.
+3/12/2015 5:13:03 PM -> Logged in as [admin].
+3/12/2015 5:13:03 PM -> Initialization successful.
+3/12/2015 5:13:05 PM -> Opening manage items form.
+3/12/2015 5:13:07 PM -> Editing item data.
+3/12/2015 5:13:10 PM -> Saving new item data.
+3/12/2015 5:13:12 PM -> Editing item data.
+3/12/2015 5:13:21 PM -> Opening billing form.
+3/12/2015 5:21:47 PM -> Logged in as [admin].
+3/12/2015 5:21:47 PM -> Initialization successful.
+3/12/2015 5:21:49 PM -> Opening billing form.
+3/12/2015 5:21:54 PM -> Adding item to be sold.
+3/12/2015 5:24:17 PM -> Logged in as [admin].
+3/12/2015 5:24:17 PM -> Initialization successful.
+3/12/2015 5:24:19 PM -> Opening billing form.
+3/12/2015 5:24:21 PM -> Adding item to be sold.
+3/12/2015 5:25:44 PM -> Logged in as [admin].
+3/12/2015 5:25:44 PM -> Initialization successful.
+3/12/2015 5:25:46 PM -> Opening add item form.
+3/12/2015 5:25:48 PM -> Opening billing form.
+3/12/2015 5:25:50 PM -> Adding item to be sold.
+3/12/2015 5:25:51 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 128
+3/12/2015 5:25:52 PM -> Adding item to be sold.
+3/12/2015 5:25:52 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 128
+3/12/2015 5:25:53 PM -> Adding item to be sold.
+3/12/2015 5:25:53 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 128
+3/12/2015 5:28:08 PM -> Logged in as [admin].
+3/12/2015 5:28:08 PM -> Initialization successful.
+3/12/2015 5:28:11 PM -> Opening billing form.
+3/12/2015 5:28:13 PM -> Adding item to be sold.
+3/12/2015 5:29:55 PM -> Logged in as [admin].
+3/12/2015 5:29:55 PM -> Initialization successful.
+3/12/2015 5:29:59 PM -> Opening billing form.
+3/12/2015 5:30:01 PM -> Adding item to be sold.
+3/12/2015 5:30:24 PM -> Confirming billing transaction.
+3/12/2015 5:30:24 PM -> Input string was not in a correct format.   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at PRJCLUMS.frmBilling.btnConfirm_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 219
+3/12/2015 5:30:27 PM -> Confirming billing transaction.
+3/12/2015 5:30:27 PM -> Input string was not in a correct format.   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at PRJCLUMS.frmBilling.btnConfirm_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 219
+3/12/2015 5:31:22 PM -> Logged in as [admin].
+3/12/2015 5:31:22 PM -> Initialization successful.
+3/12/2015 5:31:25 PM -> Opening billing form.
+3/12/2015 5:31:27 PM -> Adding item to be sold.
+3/12/2015 5:31:29 PM -> Adding item to be sold.
+3/12/2015 5:31:34 PM -> Confirming billing transaction.
+3/12/2015 5:31:35 PM -> Input string was not in a correct format.   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at PRJCLUMS.frmBilling.btnConfirm_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 219
+3/12/2015 5:31:35 PM -> Confirming billing transaction.
+3/12/2015 5:31:35 PM -> Input string was not in a correct format.   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at PRJCLUMS.frmBilling.btnConfirm_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 219
+3/12/2015 5:31:35 PM -> Confirming billing transaction.
+3/12/2015 5:31:36 PM -> Input string was not in a correct format.   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at PRJCLUMS.frmBilling.btnConfirm_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 219
+3/12/2015 5:31:36 PM -> Confirming billing transaction.
+3/12/2015 5:31:36 PM -> Input string was not in a correct format.   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at PRJCLUMS.frmBilling.btnConfirm_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 219
+3/12/2015 5:31:36 PM -> Confirming billing transaction.
+3/12/2015 5:31:36 PM -> Input string was not in a correct format.   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at PRJCLUMS.frmBilling.btnConfirm_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 219
+3/12/2015 5:38:19 PM -> Logged in as [admin].
+3/12/2015 5:38:20 PM -> Initialization successful.
+3/12/2015 5:38:21 PM -> Opening billing form.
+3/12/2015 5:38:23 PM -> Adding item to be sold.
+3/12/2015 5:38:25 PM -> Adding item to be sold.
+3/12/2015 5:38:33 PM -> Removing an item to be sold.
+3/12/2015 5:38:35 PM -> Adding item to be sold.
+3/12/2015 5:38:37 PM -> Removing an item to be sold.
+3/12/2015 5:38:38 PM -> Adding item to be sold.
+3/12/2015 5:38:39 PM -> Confirming billing transaction.
+3/12/2015 5:38:43 PM -> Opening reports form.
+3/12/2015 5:38:48 PM -> Opening inquiry form.
+3/12/2015 5:40:07 PM -> Logged in as [admin].
+3/12/2015 5:40:07 PM -> Initialization successful.
+3/12/2015 5:40:09 PM -> Opening billing form.
+3/12/2015 5:40:11 PM -> Adding item to be sold.
+3/12/2015 5:40:15 PM -> Adding item to be sold.
+3/12/2015 5:40:18 PM -> Adding item to be sold.
+3/12/2015 5:40:23 PM -> Confirming billing transaction.
+3/12/2015 5:40:31 PM -> Opening inquiry form.
+3/12/2015 5:40:53 PM -> Opening billing form.
+3/12/2015 5:40:58 PM -> Opening inquiry form.
+3/12/2015 5:42:07 PM -> Logged in as [admin].
+3/12/2015 5:42:08 PM -> Initialization successful.
+3/12/2015 5:42:10 PM -> Opening billing form.
+3/12/2015 5:42:13 PM -> Adding item to be sold.
+3/12/2015 5:42:15 PM -> Adding item to be sold.
+3/12/2015 5:42:19 PM -> Adding item to be sold.
+3/12/2015 5:42:20 PM -> Confirming billing transaction.
+3/12/2015 5:42:23 PM -> Opening inquiry form.
+3/12/2015 5:42:36 PM -> Opening reports form.
+3/12/2015 5:42:41 PM -> Opening item reports form.
+3/12/2015 5:42:43 PM -> Opening reports form.
+3/12/2015 5:42:52 PM -> Opening billing form.
+3/12/2015 5:42:56 PM -> Opening reports form.
+3/12/2015 5:43:26 PM -> Opening item reports form.
+3/12/2015 5:43:30 PM -> Opening inquiry form.
+3/12/2015 5:43:33 PM -> Generating PDF file.
+3/13/2015 7:49:38 PM -> Logged in as [admin].
+3/13/2015 7:49:39 PM -> Initialization successful.
+3/13/2015 7:49:43 PM -> Opening manage items form.
+3/13/2015 7:52:35 PM -> Logged in as [admin].
+3/13/2015 7:52:35 PM -> Initialization successful.
+3/13/2015 7:52:38 PM -> Opening manage categories form.
+3/13/2015 7:52:47 PM -> Opening billing form.
+3/13/2015 7:52:54 PM -> Adding item to be sold.
+3/13/2015 7:52:54 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 118
+3/13/2015 7:53:29 PM -> Adding item to be sold.
+3/13/2015 7:53:29 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 118
+3/13/2015 7:53:35 PM -> Adding item to be sold.
+3/13/2015 7:53:35 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 118
+3/13/2015 7:53:37 PM -> Adding item to be sold.
+3/13/2015 7:53:37 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 118
+3/13/2015 7:53:41 PM -> Adding item to be sold.
+3/13/2015 7:53:41 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 118
+3/13/2015 7:53:45 PM -> Opening billing form.
+3/13/2015 7:53:47 PM -> Adding item to be sold.
+3/13/2015 7:53:47 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 118
+3/13/2015 7:54:53 PM -> Logged in as [admin].
+3/13/2015 7:54:53 PM -> Initialization successful.
+3/13/2015 7:54:56 PM -> Opening billing form.
+3/13/2015 7:54:59 PM -> Adding item to be sold.
+3/13/2015 7:54:59 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 118
+3/13/2015 7:55:01 PM -> Adding item to be sold.
+3/13/2015 7:55:01 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 118
+3/13/2015 7:55:01 PM -> Adding item to be sold.
+3/13/2015 7:55:01 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 109
+3/13/2015 7:55:01 PM -> Adding item to be sold.
+3/13/2015 7:55:01 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 109
+3/13/2015 7:55:32 PM -> Logged in as [admin].
+3/13/2015 7:55:32 PM -> Initialization successful.
+3/13/2015 7:55:35 PM -> Opening billing form.
+3/13/2015 7:55:41 PM -> Adding item to be sold.
+3/13/2015 7:55:41 PM -> Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at PRJCLUMS.frmBilling.btnAddCart_Click(Object sender, EventArgs e) in C:\Users\Starshina Gospodin\Desktop\Random Shit\PROJCLUMSver2\PRJCLUMS\frmBilling.cs:line 118
+3/13/2015 7:56:33 PM -> Logged in as [admin].
+3/13/2015 7:56:33 PM -> Initialization successful.
+3/13/2015 7:56:35 PM -> Opening billing form.
+3/13/2015 7:56:37 PM -> Adding item to be sold.
+3/13/2015 7:56:44 PM -> Adding item to be sold.
+3/13/2015 7:56:48 PM -> Confirming billing transaction.
+3/13/2015 7:56:55 PM -> Opening reports form.
+3/13/2015 7:56:58 PM -> Opening inquiry form.
+3/13/2015 8:02:09 PM -> Logged in as [admin].
+3/13/2015 8:02:09 PM -> Initialization successful.
+3/13/2015 8:02:11 PM -> Opening billing form.
+3/13/2015 8:02:13 PM -> Adding item to be sold.
+3/13/2015 8:02:19 PM -> Adding item to be sold.
+3/13/2015 8:02:23 PM -> Removing an item to be sold.
+3/13/2015 8:02:25 PM -> Adding item to be sold.
+3/13/2015 8:02:27 PM -> Adding item to be sold.
+3/13/2015 8:02:30 PM -> Confirming billing transaction.
+3/13/2015 8:02:35 PM -> Opening reports form.
+3/13/2015 8:03:32 PM -> Opening add item form.
+3/13/2015 8:03:56 PM -> Logged in as [admin].
+3/13/2015 8:03:56 PM -> Initialization successful.
+3/13/2015 8:03:58 PM -> Opening manage categories form.
+3/13/2015 8:04:00 PM -> Opening add item form.
+3/13/2015 8:04:04 PM -> Opening manage items form.
+3/13/2015 8:04:06 PM -> Opening add item form.
+3/13/2015 8:05:03 PM -> Logged in as [admin].
+3/13/2015 8:05:04 PM -> Initialization successful.
+3/13/2015 8:05:06 PM -> Opening add item form.
+3/13/2015 8:05:11 PM -> Opening add item form.
+3/13/2015 8:05:13 PM -> Opening add item form.
+3/13/2015 8:05:20 PM -> Opening add item form.
+3/13/2015 8:05:57 PM -> Logged in as [admin ].
+3/13/2015 8:05:57 PM -> Initialization successful.
+3/13/2015 8:05:59 PM -> Opening manage users form.
+3/13/2015 8:08:16 PM -> Logged in as [admin].
+3/13/2015 8:08:16 PM -> Initialization successful.
+3/13/2015 8:08:18 PM -> Opening manage users form.
+3/13/2015 8:08:25 PM -> Saving new user data.
+3/13/2015 8:08:25 PM -> User: admin with current access: Administrator has changed to Administrator successfully by admin.
+3/13/2015 8:08:33 PM -> Saving new user data.
+3/13/2015 8:08:38 PM -> Opening add user form.
+3/13/2015 8:08:40 PM -> Opening add user form.
+3/13/2015 8:08:44 PM -> Saving new user data.
+3/13/2015 8:08:48 PM -> Opening manage users form.
+3/13/2015 8:08:58 PM -> Saving new user data.
+3/13/2015 8:08:58 PM -> User: edd with current access: Regular has changed to Administrator successfully by admin.
+3/13/2015 8:09:02 PM -> Saving new user data.
+3/13/2015 8:09:02 PM -> User: eds with current access: Administrator has changed to Regular successfully by admin.
+3/13/2015 8:09:06 PM -> Logging out from account [admin (Administrator)].
+3/13/2015 8:09:09 PM -> Logged in as [eds].
+3/13/2015 8:09:09 PM -> Initialization successful.
+3/13/2015 8:09:14 PM -> Logging out from account [eds (Regular)].
+3/13/2015 8:09:29 PM -> Logged in as [admin].
+3/13/2015 8:09:29 PM -> Initialization successful.
+3/13/2015 8:09:32 PM -> Opening add user form.
+3/13/2015 8:09:35 PM -> Opening manage users form.
+3/13/2015 8:09:41 PM -> Saving new user data.
+3/13/2015 8:09:41 PM -> User: admin with current access: Administrator has changed to Administrator successfully by admin.
+3/13/2015 8:10:22 PM -> Opening manage users form.
+3/13/2015 8:10:32 PM -> Opening add user form.
+3/13/2015 8:10:38 PM -> Opening manage users form.
+3/13/2015 8:10:47 PM -> Opening manage categories form.
+3/13/2015 8:10:52 PM -> Editing category data.
+3/13/2015 8:10:54 PM -> Saving new category data.
+3/13/2015 8:10:58 PM -> Opening manage users form.
+3/13/2015 8:11:02 PM -> Saving new user data.
+3/13/2015 8:11:02 PM -> User: admin with current access: Administrator has changed to Administrator successfully by admin.
+3/13/2015 8:11:05 PM -> Opening manage items form.
+3/13/2015 8:11:06 PM -> Editing item data.
+3/13/2015 8:11:10 PM -> Saving new item data.
+3/13/2015 8:11:16 PM -> Opening manage categories form.
+3/13/2015 8:12:44 PM -> Logged in as [admin].
+3/13/2015 8:12:45 PM -> Initialization successful.
+3/13/2015 8:12:49 PM -> Opening manage categories form.
+3/13/2015 8:12:52 PM -> Editing category data.
+3/13/2015 8:12:53 PM -> Saving new category data.
+3/13/2015 8:12:56 PM -> Editing category data.
+3/13/2015 8:12:57 PM -> Saving new category data.
+3/13/2015 8:13:01 PM -> Editing category data.
+3/13/2015 8:13:02 PM -> Saving new category data.
+3/13/2015 8:13:42 PM -> Logged in as [admin].
+3/13/2015 8:13:42 PM -> Initialization successful.
+3/13/2015 8:13:46 PM -> Opening manage categories form.
+3/13/2015 8:13:48 PM -> Editing category data.
+3/13/2015 8:13:49 PM -> Saving new category data.
+3/13/2015 8:13:52 PM -> Opening add main category form.
+3/13/2015 8:14:00 PM -> Saving new category data.
+3/13/2015 8:14:09 PM -> Opening manage categories form.
+3/13/2015 8:14:17 PM -> Editing category data.
+3/13/2015 8:14:20 PM -> Saving new category data.
+3/13/2015 8:14:22 PM -> Editing category data.
+3/13/2015 8:14:27 PM -> Opening manage items form.
+3/13/2015 8:14:28 PM -> Editing item data.
+3/13/2015 8:14:45 PM -> Saving new item data.
+3/13/2015 8:15:59 PM -> Logged in as [admin].
+3/13/2015 8:15:59 PM -> Initialization successful.
+3/13/2015 8:16:01 PM -> Opening manage items form.
+3/13/2015 8:16:04 PM -> Editing item data.
+3/13/2015 8:17:04 PM -> Logged in as [admin].
+3/13/2015 8:17:04 PM -> Initialization successful.
+3/13/2015 8:17:06 PM -> Opening manage categories form.
+3/13/2015 8:17:09 PM -> Opening manage items form.
+3/13/2015 8:17:14 PM -> Editing item data.
+3/13/2015 8:17:45 PM -> Logged in as [admin].
+3/13/2015 8:17:45 PM -> Initialization successful.
+3/13/2015 8:17:47 PM -> Opening manage items form.
+3/13/2015 8:17:49 PM -> Editing item data.
+3/13/2015 8:18:25 PM -> Saving new item data.
+3/13/2015 8:18:28 PM -> Saving new item data.
+3/13/2015 8:18:33 PM -> Opening manage categories form.
+3/13/2015 8:18:37 PM -> Opening billing form.
+3/13/2015 8:18:44 PM -> Opening reports form.
+3/13/2015 8:19:00 PM -> Opening item reports form.
+3/13/2015 8:19:13 PM -> Opening reports form.
+3/13/2015 8:19:20 PM -> Opening item reports form.
+3/13/2015 8:19:26 PM -> Opening add item form.
+3/13/2015 8:19:48 PM -> Saving new item data.
+3/13/2015 8:19:58 PM -> Opening manage categories form.
+3/13/2015 8:20:02 PM -> Opening add item form.
+3/13/2015 8:20:05 PM -> Opening manage categories form.
+3/13/2015 8:20:08 PM -> Opening manage items form.
+3/13/2015 8:20:11 PM -> Editing item data.
+3/13/2015 8:20:18 PM -> Saving new item data.
+3/13/2015 8:20:24 PM -> Opening billing form.
+3/13/2015 8:20:26 PM -> Adding item to be sold.
+3/13/2015 8:20:31 PM -> Adding item to be sold.
+3/13/2015 8:20:32 PM -> Confirming billing transaction.
+3/13/2015 8:20:35 PM -> Opening reports form.
+3/13/2015 8:20:45 PM -> Opening item reports form.
+3/13/2015 8:21:31 PM -> Logged in as [admin].
+3/13/2015 8:21:31 PM -> Initialization successful.
+3/13/2015 8:21:34 PM -> Opening billing form.
